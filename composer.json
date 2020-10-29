@@ -1,0 +1,15 @@
+{
+    "name": "edopratama/getuser",
+    "description": "package for get list user from jsonplaceholder",
+    "authors": [
+        {
+            "name": "edo pratama",
+            "email": "kimbisnis3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5@dev"
+    }
+}
